@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - mp3player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - mp3player (from `.symlinks/plugins/mp3player/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  mp3player:
+    :path: ".symlinks/plugins/mp3player/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  mp3player: 86d4a7ffc9eaac81dd66c340715aa82af1193281
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.9.1
